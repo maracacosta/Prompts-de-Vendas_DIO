@@ -1,0 +1,1 @@
+faça uma análise com foco em identificar insights que tragam tomadas de decisões estratégicas em cada país

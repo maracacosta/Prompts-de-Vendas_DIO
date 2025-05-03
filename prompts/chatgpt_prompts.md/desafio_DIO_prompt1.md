@@ -1,0 +1,1 @@
+Considere os relatórios de vendas anexos da Meganium para as próximas análises. Retorne uma tabela com os produtos mais vendidos em cada país, o valor do faturamento desse produto nesse país, a quantidade de itens vendidos.

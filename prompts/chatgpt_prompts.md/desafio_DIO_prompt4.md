@@ -1,0 +1,1 @@
+que análises podemos realizar considerando as informações da tabela e considerando que o objetivo da empresa é cresceimento nos proximos 2 anos
